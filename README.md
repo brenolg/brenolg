@@ -120,7 +120,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&co
 	<a
 		href="http://www.linkedin.com/in/breno-lg"
 		target="_blank"
-		rel=”noopener”>
+		rel="noopener noreferrer">
 		<img
 			align="center"
 			height="50"
