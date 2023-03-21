@@ -1,6 +1,3 @@
-[![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&color=FFFFFF&multiline=true&width=435&height=50&lines=Welcome+to+my+github+page!)](https://git.io/typing-svg)
-
 ## Sobre mim
 * :desktop_computer: Sou desenvolvedor Web Full-Stack :robot:
 * :leaves: Tenho formação em Biologia e atuava como empreendedor 
