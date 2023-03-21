@@ -238,6 +238,9 @@ SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&co
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
   <h1 align="center">Redes Sociais</h1>
   <a href="mailto: brenolgar@gmail.com">
 	<img
