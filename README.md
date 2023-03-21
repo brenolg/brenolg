@@ -2,117 +2,235 @@
 SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&color=FFFFFF&multiline=true&width=435&height=70&lines=Hi+there+!;Welcome+to+my+github+page)](https://git.io/typing-svg)
 
 <div>
-	<img
-		width="45%"
-		src="https://github-readme-stats.vercel.app/api?username=brenolg&show_icons=true&theme=transparent" />
-	<img
-		align="right"
-		width="45%"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolg&show_icons=true&theme=transparent&layout=compact" />
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=brenolg&show_icons=true&theme=transparent"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolg&show_icons=true&theme=transparent&layout=compact"/>
 </div>
+<br>
 
-<div align="center">
-	<div style="display: inline_block">
-		<br />
-		<div align="center">
-			<img
-				align="left"
-				width="35%"
-				alt="coding-time"
-				src="https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif" />
-			<h1 align="center">Technologies</h1>
-			<div>
-				<img
-					align="center"
-					height="30"
-					width="40"
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-				<img
-					align="center"
-					height="30"
-					width="40"
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-				<img
-					align="center"
-					height="30"
-					width="40"
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-				<img
-					align="center"
-					height="30"
-					width="40"
-					src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-				<img
-					align="center"
-					height="30"
-					width="40"
-					src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-				<img
-					align="center"
-					height="30"
-					width="40"
-					src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-				<img
-					align="center"
-					height="30"
-					width="40"
-					src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
-				<img
-					align="center"
-					height="30"
-					width="40"
-					src="https://testing-library.com/img/octopus-128x128.png" />
-				<br />
-			</div>
-			<br />
-			<div>
-				<img
-					align="center"
-					height="30"
-					width="40"
-					src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-				<img
-					align="center"
-					height="30"
-					width="40"
-					src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
-				<img
-					align="center"
-					height="30"
-					width="40"
-					src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" />
-				<img
-					align="center"
-					height="30"
-					width="40"
-					src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" />
-				<img
-					align="center"
-					height="30"
-					width="40"
-					src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" />
-				<img
-					align="center"
-					height="30"
-					width="40"
-					src="https://user-images.githubusercontent.com/103611470/212475683-30aa8c88-7c9c-4176-a385-64daefc2f63e.png" />
-				<img
-					align="center"
-					height="30"
-					src="https://user-images.githubusercontent.com/103611470/212475773-3c7263dd-43b7-4b24-8611-7d7992fa99d7.png" />
-				<img
-					align="center"
-					height="30"
-					src="https://user-images.githubusercontent.com/103611470/212475815-a3154e78-68ac-4d4b-b5d5-6e4168a69948.png" />
-			</div>
-		</div>
-	</div>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+	<img align="left" height="250" alt="T-Rex" src="https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif">
+	     <table align="right">
+					<tbody>
+							 <tr>
+									<td align="center">Javascript</td>
+									<td align="center">React</td>
+									<td align="center">Node</td>
+									<td align="center">HTML5</td>
+									<td align="center">CSS3</td>
+									<td align="center">Github</td>
+									<td align="center">Git</td>
+									<td align="center">Jest</td>
+							 </tr>
+							 <tr>
+							  	 <td align="center">									
+											<img
+											align="center"
+											height="30"
+											width="40"
+											src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+									 </td>
+									 <td align="center">
+											<img
+											align="center"
+											height="30"
+											width="40"
+											src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+									</td>
+									<td align="center">
+											<img
+											align="center"
+											height="30"
+											width="40"
+											src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+									</td>
+									<td align="center">
+											<img
+											align="center"
+											height="30"
+											width="40"
+											src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+									</td>
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+									</td>
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+									</td>
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+									</td>
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
+									</td>        
+							 </tr>
+							<tr>
+									<td align="center">RTL</td>
+									<td align="center">Docker</td>
+									<td align="center">Redux</td>
+									<td align="center">Eslint</td>
+									<td align="center">Figma</td>
+									<td align="center">Bootstrap</td>
+									<td align="center">Gimp</td>
+									<td align="center">Slack</td>
+							</tr>
+							<tr>
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://testing-library.com/img/octopus-128x128.png" />
+									</td>  
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+    										src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+									</td>  
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://cdn.worldvectorlogo.com/logos/redux.svg" />	
+									</td>
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" />	
+									</td>  
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" 
+												/>	
+									</td>  
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" 
+												/>	
+									</td>  
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://user-images.githubusercontent.com/103611470/212475683-30aa8c88-7c9c-4176-a385-64daefc2f63e.png" 
+												/>	
+									</td>  
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://user-images.githubusercontent.com/103611470/212475773-3c7263dd-43b7-4b24-8611-7d7992fa99d7.png" 
+												/>	
+									</td>  
+							</tr>
+							<tr align="center">
+							    <td align="center">Typescript</td>
+							    <td align="center">Express</td>
+									<td align="center">API</td>
+									<td align="center">Sequelize</td>
+									<td align="center">JWT</td>
+									<td align="center">Steam</td>
+							</tr>
+							<tr>
+									<td align="center">
+											<img
+											  align="center"
+												height="30"
+												width="40"
+												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
+												/>	
+									</td>    
+									<td align="center">
+											<img
+											  align="center"
+												height="30"
+												width="40"
+												src="./express.png" 
+												/>	
+									</td>            
+									<td align="center">
+											<img
+											  align="center"
+												height="30"
+												width="40"
+												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+												/>	
+									</td>    
+									<td align="center">
+											<img
+											  align="center"
+												height="30"
+												width="40"
+												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
+												/>	
+									</td>      
+									<td align="center">
+											<img
+											  align="center"
+												height="30"
+												width="40"
+												src="./JWT.png" 
+												/>	
+									</td>                                  
+									<td align="center">
+											<img
+											  align="center"
+												height="30"
+												width="40"
+												src="https://user-images.githubusercontent.com/103611470/212475815-a3154e78-68ac-4d4b-b5d5-6e4168a69948.png" 
+												/>	
+									</td>  
+							</tr>
+					</tbody>
+			 </table>
+  </div>
 </div>
-
+    
 <div align="center">
-	<h1>Redes Sociais</h1>
-	<a href="mailto: brenolgar@gmail.com">
-		<img
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+  <h1 align="center">Redes Sociais</h1>
+  <a href="mailto: brenolgar@gmail.com">
+	<img
 			align="center"
 			height="50"
 			src="https://user-images.githubusercontent.com/103611470/212475905-d14fd4fa-4ea5-41a4-a161-12c1cd42e277.png" />
@@ -129,3 +247,5 @@ SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&co
 </div>
 
 ![Snake animation](https://github.com/brenolg/brenolg/blob/output/github-contribution-grid-snake.svg)
+
+
