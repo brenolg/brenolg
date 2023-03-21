@@ -2,7 +2,7 @@
 * :desktop_computer: Sou desenvolvedor Web Full-Stack :robot:
 * :leaves: Tenho formação em Biologia e atuava como empreendedor 
 * :amphora: Emprendia com kokedamas, plantas e cerâmica
-* :mailbox: Para mais informações, conecte-se comigo no LinkedIn ou mande um email
+* :mailbox: Para mais informações, conecte-se comigo no LinkedIn ou entre em contato por email
 
 <br>
 <div>
