@@ -11,7 +11,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&co
 <div  align="center"> 
   <h1 align="center">Tecnologias e Ferramentas</h1>
   <div style="display: inline_block"><br>
-	<img align="left" height="250" alt="T-Rex" src="https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif">
+	<img align="left" height="220" alt="T-Rex" src="https://31.media.tumblr.com/2e8986a1b1c062623cea1b9edaddcc52/tumblr_mup3qzOPsX1rk0k2jo1_500.gif">
 	     <table align="right">
 					<tbody>
 							 <tr>
