@@ -1,6 +1,13 @@
 [![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&color=FFFFFF&multiline=true&width=435&height=70&lines=Hi+there+!;Welcome+to+my+github+page)](https://git.io/typing-svg)
+SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&color=FFFFFF&multiline=true&width=435&height=50&lines=Welcome+to+my+github+page!)](https://git.io/typing-svg)
 
+## Sobre mim
+* :desktop_computer: Sou desenvolvedor Web Full-Stack :robot:
+* :leaves: Tenho formação em Biologia e atuava como empreendedor 
+* :amphora: Emprendia com kokedamas, plantas e cerâmica
+* :mailbox: Para mais informações, conecte-se comigo no LinkedIn ou mande um email
+
+<br>
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=brenolg&show_icons=true&theme=transparent"/>
