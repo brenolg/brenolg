@@ -19,11 +19,9 @@ SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&co
 									<td align="center">Node</td>
 									<td align="center">HTML5</td>
 									<td align="center">CSS3</td>
-									<td align="center">Github</td>
-									<td align="center">Git</td>
-									<td align="center">Jest</td>
-							 </tr>
-							 <tr>
+                  <td align="center">Redux</td>
+							  </tr>
+							  <tr>
 							  	 <td align="center">									
 											<img
 											align="center"
@@ -64,7 +62,24 @@ SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&co
 												align="center"
 												height="30"
 												width="40"
-												src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />       
+									</td>  
+							  </tr>
+							  <tr>
+								  <td align="center">Github</td>
+									<td align="center">Git</td>
+									<td align="center">Jest</td>
+									<td align="center">RTL</td>
+									<td align="center">Docker</td>
+									<td align="center">ESLint</td>
+							  </tr>
+							  <tr>
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+ 												width="40"        
+												src="./github.png" />
 									</td>
 									<td align="center">
 											<img
@@ -72,85 +87,34 @@ SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&co
 												height="30"
 												width="40"
 												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-									</td>
+									</td>      
 									<td align="center">
 											<img
 												align="center"
 												height="30"
 												width="40"
-												src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
-									</td>        
-							 </tr>
-							<tr>
-									<td align="center">RTL</td>
-									<td align="center">Docker</td>
-									<td align="center">Redux</td>
-									<td align="center">Eslint</td>
-									<td align="center">Figma</td>
-									<td align="center">Bootstrap</td>
-									<td align="center">Gimp</td>
-									<td align="center">Slack</td>
-							</tr>
-							<tr>
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://testing-library.com/img/octopus-128x128.png" />
+												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>         
 									</td>  
 									<td align="center">
 											<img
 												align="center"
 												height="30"
 												width="40"
-    										src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+    										src="https://testing-library.com/img/octopus-128x128.png" />
 									</td>  
 									<td align="center">
 											<img
 												align="center"
 												height="30"
 												width="40"
-												src="https://cdn.worldvectorlogo.com/logos/redux.svg" />	
+												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />	
 									</td>
-									<td align="center">
+									<td align="center">        
 											<img
 												align="center"
 												height="30"
 												width="40"
 												src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" />	
-									</td>  
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" 
-												/>	
-									</td>  
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" 
-												/>	
-									</td>  
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://user-images.githubusercontent.com/103611470/212475683-30aa8c88-7c9c-4176-a385-64daefc2f63e.png" 
-												/>	
-									</td>  
-									<td align="center">
-											<img
-												align="center"
-												height="30"
-												width="40"
-												src="https://user-images.githubusercontent.com/103611470/212475773-3c7263dd-43b7-4b24-8611-7d7992fa99d7.png" 
-												/>	
 									</td>  
 							</tr>
 							<tr align="center">
@@ -159,7 +123,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&co
 									<td align="center">API</td>
 									<td align="center">Sequelize</td>
 									<td align="center">JWT</td>
-									<td align="center">Steam</td>
+									<td align="center">TailwindCSS</td>
 							</tr>
 							<tr>
 									<td align="center">
@@ -207,10 +171,56 @@ SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&co
 											  align="center"
 												height="30"
 												width="40"
-												src="https://user-images.githubusercontent.com/103611470/212475815-a3154e78-68ac-4d4b-b5d5-6e4168a69948.png" 
-												/>	
+												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" 
+												/>	          
 									</td>  
 							</tr>
+							<tr>
+									<td align="center">Gimp</td>
+									<td align="center">Slack</td>
+									<td align="center">Figma</td>
+								 <td align="center">Bootstrap</td>
+                  <td align="center">Steam</td>
+							</tr>
+							<tr>
+																<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://user-images.githubusercontent.com/103611470/212475683-30aa8c88-7c9c-4176-a385-64daefc2f63e.png" 
+												/>	
+									</td>  
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://user-images.githubusercontent.com/103611470/212475773-3c7263dd-43b7-4b24-8611-7d7992fa99d7.png" 
+												/>	
+										<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://github.com/devicons/devicon/blob/v2.15.1/icons/figma/figma-original.svg" 
+												/>	
+									</td>
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg"/>
+									</td>   
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+												src="https://user-images.githubusercontent.com/103611470/212475815-a3154e78-68ac-4d4b-b5d5-6e4168a69948.png"/>
+									</td>   
+								</tr>
 					</tbody>
 			 </table>
   </div>
