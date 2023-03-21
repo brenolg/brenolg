@@ -68,7 +68,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&co
 							  </tr>
 							  <tr>
 								  <td align="center">Github</td>
-									<td align="center">Git</td>
+									<td align="center">SQL</td>
 									<td align="center">Jest</td>
 									<td align="center">RTL</td>
 									<td align="center">Docker</td>
@@ -87,7 +87,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&co
 												align="center"
 												height="30"
 												width="40"
-												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
 									</td>      
 									<td align="center">
 											<img
@@ -177,6 +177,7 @@ SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&co
 									</td>  
 							</tr>
 							<tr>
+								  <td align="center">MongoDB</td>
 									<td align="center">Gimp</td>
 									<td align="center">Slack</td>
 									<td align="center">Figma</td>
@@ -184,7 +185,14 @@ SVG](https://readme-typing-svg.demolab.com?font=Rowdies&duration=3000&pause=1&co
                   <td align="center">Steam</td>
 							</tr>
 							<tr>
-																<td align="center">
+									<td align="center">
+											<img
+												align="center"
+												height="30"
+												width="40"
+	                    	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+									</td>  
+									<td align="center">
 											<img
 												align="center"
 												height="30"
