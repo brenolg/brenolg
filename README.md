@@ -185,7 +185,7 @@
 									<td align="center">Gimp</td>
 									<td align="center">Slack</td>
 									<td align="center">Figma</td>
-								 <td align="center">Bootstrap</td>
+								 <td align="center">Python</td>
                   <td align="center">Steam</td>
 							</tr>
 							<tr>
@@ -224,7 +224,7 @@
 												align="center"
 												height="30"
 												width="40"
-												src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg"/>
+												src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 									</td>   
 									<td align="center">
 											<img
