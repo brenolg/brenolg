@@ -2,7 +2,7 @@
 * :desktop_computer: Sou desenvolvedor Web Full-Stack :robot:
 * :leaves: Tenho formação em Biologia e atuava como empreendedor 
 * :amphora: Emprendia com kokedamas, plantas e cerâmica
-* :mailbox: Para mais informações, conecte-se comigo no <a href="https://www.linkedin.com/in/breno-lg/" target="_blank">LinkedIn</a> ou entre em contato por  <a href="mailto: brenolgar@gmail.com"> Email</a>
+* :mailbox: Para mais informações, conecte-se comigo no <a href="https://www.linkedin.com/in/breno-lg/" target="_blank">linkedIn</a> ou entre em contato por  <a href="mailto: brenolgar@gmail.com"> email</a>
 
 <br>
 <div>
