@@ -279,7 +279,7 @@
 		<img
 			align="center"
 			height="50"
-			src="https://user-images.githubusercontent.com/103611470/212475971-cbf5aa0a-6714-4b8e-b5ae-4f64817ad12a.png" />
+			src="./click.png" />
 	</a>
 </div>
 
