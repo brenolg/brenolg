@@ -272,6 +272,15 @@
 			height="50"
 			src="https://user-images.githubusercontent.com/103611470/212475971-cbf5aa0a-6714-4b8e-b5ae-4f64817ad12a.png" />
 	</a>
+		<a
+		href="https://brenolg.github.io"
+		target="_blank"
+		rel="noopener noreferrer">
+		<img
+			align="center"
+			height="50"
+			src="https://user-images.githubusercontent.com/103611470/212475971-cbf5aa0a-6714-4b8e-b5ae-4f64817ad12a.png" />
+	</a>
 </div>
 
 ![Snake animation](https://github.com/brenolg/brenolg/blob/output/github-contribution-grid-snake.svg)
