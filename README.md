@@ -100,19 +100,19 @@
 <tr>
 <td align="center">Angular</td>
 <td align="center">React Hook Form</td>
-<td align="center">Yup</td>
-<td align="center">Git</td>
 <td align="center">Axios</td>
-<td align="center">Material UI</td>
+<td align="center">Git</td>
+<td align="center">Styled Components</td>
+<td align="center">React Navigation</td>
 </tr>
 
 <tr>
 <td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/></td>
 <td align="center"><img height="30" width="40" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg"/></td>
-<td align="center"><img height="30" width="40" src="https://avatars.githubusercontent.com/u/17682007?s=200&v=4"/></td>
-<td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></td>
 <td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg"/></td>
-<td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/></td>
+<td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></td>
+<td align="center"><img height="30" width="40" src="https://styled-components.com/logo.png"/></td>
+<td align="center"><img height="30" width="40" src="https://reactnavigation.org/img/spiro.svg"/></td>
 </tr>
 
 </tbody>
