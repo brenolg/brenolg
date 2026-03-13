@@ -124,15 +124,15 @@
 <div align="center">
 <h1>Redes Sociais</h1>
 
-<a href="mailto:brenolgar@gmail.com">
+<a href="mailto:brenolgar@gmail.com" style="text-decoration:none;">
 <img height="50" src="https://user-images.githubusercontent.com/103611470/212475905-d14fd4fa-4ea5-41a4-a161-12c1cd42e277.png"/>
 </a>
 
-<a href="http://www.linkedin.com/in/breno-lg" target="_blank">
+<a href="http://www.linkedin.com/in/breno-lg" target="_blank" style="text-decoration:none;">
 <img height="50" src="https://user-images.githubusercontent.com/103611470/212475971-cbf5aa0a-6714-4b8e-b5ae-4f64817ad12a.png"/>
 </a>
 
-<a href="https://brenolg.github.io" target="_blank">
+<a href="https://brenolg.github.io" target="_blank" style="text-decoration:none;">
 <img height="50" src="./click.png"/>
 </a>
 
