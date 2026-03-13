@@ -95,8 +95,8 @@
 <td align="center"><img height="30" width="40" src="https://user-images.githubusercontent.com/103611470/212475815-a3154e78-68ac-4d4b-b5d5-6e4168a69948.png"/></td>
 </tr>
 
-    </tbody>
-  </table>
+</tbody>
+</table>
 </div>
 
 <br>
