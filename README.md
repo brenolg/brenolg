@@ -81,8 +81,8 @@
 
 <tr>
 <td align="center">MongoDB</td>
-<td align="center">Gimp</td>
-<td align="center">Slack</td>
+<td align="center">Next.js</td>
+<td align="center">React Native</td>
 <td align="center">Figma</td>
 <td align="center">Python</td>
 <td align="center">Steam</td>
@@ -90,11 +90,29 @@
 
 <tr>
 <td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></td>
-<td align="center"><img height="30" width="40" src="https://user-images.githubusercontent.com/103611470/212475683-30aa8c88-7c9c-4176-a385-64daefc2f63e.png"/></td>
-<td align="center"><img height="30" width="40" src="https://user-images.githubusercontent.com/103611470/212475773-3c7263dd-43b7-4b24-8611-7d7992fa99d7.png"/></td>
+<td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/></td>
+<td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></td>
 <td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></td>
 <td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></td>
 <td align="center"><img height="30" width="40" src="https://user-images.githubusercontent.com/103611470/212475815-a3154e78-68ac-4d4b-b5d5-6e4168a69948.png"/></td>
+</tr>
+
+<tr>
+<td align="center">Angular</td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+
+<tr>
+<td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 
 </tbody>
