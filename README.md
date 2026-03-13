@@ -1,6 +1,6 @@
 ## Sobre mim
-* :desktop_computer: Sou desenvolvedor Web Full-Stack :robot:
-* :amphora: Foco em JavaScript, TypeScript, React, React Native, Angular, 
+* :desktop_computer: Sou desenvolvedor Web Full-Stack 
+* :robot: Foco em JavaScript, TypeScript, React, React Native, Angular, 
 Next.js, Docker, Node.js, Python, SQL e NoSQL.
 * :leaves: Tenho formação em Biologia e sou estudante de Análise e Desenvolvimento de Sistema
 * :mailbox: Para mais informações, conecte-se comigo no <a href="https://www.linkedin.com/in/breno-lg/" target="_blank">LinkedIn</a> ou entre em contato por <a href="mailto:brenolgar@gmail.com">brenolgar@gmail.com</a>
