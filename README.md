@@ -76,7 +76,7 @@
 <td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/></td>
 <td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"/></td>
 <td align="center"><img height="30" width="40" src="./JWT.png"/></td>
-<td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/></td>
+<td align="center"><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/></td>
 </tr>
 
 <tr>
