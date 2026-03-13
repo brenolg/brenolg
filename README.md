@@ -283,6 +283,6 @@
 	</a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/brenolg/brenolg/output/ocean.gif)
+![Snake animation](https://raw.githubusercontent.com/brenolg/brenolg/output/github-snake-dark.svg)
 
 
