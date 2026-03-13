@@ -7,8 +7,11 @@
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenolg&show_icons=true&theme=transparent"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolg&show_icons=true&theme=transparent&layout=compact"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=brenolg&show_icons=true&theme=transparent"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenolg&layout=compact&theme=transparent"/>
+
 </div>
 
 <br>
