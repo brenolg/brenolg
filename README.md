@@ -283,6 +283,6 @@
 	</a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/brenolg/brenolg/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/brenolg/brenolg/output/ocean.gif)
 
 
