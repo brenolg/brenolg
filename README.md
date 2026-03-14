@@ -1,5 +1,5 @@
 ## Sobre mim
-* :desktop_computer: Sou desenvolvedor Web Full-Stack 
+* :desktop_computer: Sou desenvolvedor Full-Stack 
 * :robot: Foco em JavaScript, TypeScript, React, React Native, Angular, 
 Next.js, Docker, Node.js, Python, SQL e NoSQL.
 * :leaves: Tenho formação em Biologia e sou estudante de Análise e Desenvolvimento de Sistema
